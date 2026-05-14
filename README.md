@@ -192,8 +192,8 @@ Get the token by registering or logging in via `/api/admin/register` or `/api/ad
 ## Author
 
 Shahid Ali  
-GitHub: [shahidalibangash01](https://github.com/shahidalibangash01)  
-LinkedIn: [Shahid Ali](https://www.linkedin.com/in/shahidalibangash01)
+- LinkedIn: [linkedin.com/in/shahid-ali](https://www.linkedin.com/in/shahid-ali-bangash)
+- GitHub: [github.com/shahidalibangash01](https://github.com/shahidalibangash01)
 
 ---
 
